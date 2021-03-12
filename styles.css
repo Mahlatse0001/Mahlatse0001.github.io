@@ -22,7 +22,7 @@ ul{
 }
 		
 .about{
-	font-size: 20px;
+	font-size: 125%;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -34,25 +34,25 @@ ul{
 	background-image: url('img/education.jpeg');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
-	font-size: 20px;
+	font-size: 125%;
 	color: white;
 	text-align: center;
 }
 		
 .skill{
-	font-size: 20px;
+	font-size: 125%;
 	text-align: center;
 }
 		
 .contact{
-	font-size: 20px;
+	font-size: 125%px;
 	color: white;
 	background-color: grey;
 }
 		
 .image-container{
 	display: grid;
-	grid-gap: 5px;
+	grid-gap: 20px;
 	grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 	grid-auto-rows: 200px;
 	grid-auto-flow: dense;
