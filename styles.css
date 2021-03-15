@@ -10,6 +10,10 @@ body{
 h1{
 	margin-bottom: -6px;
 }
+
+h3{
+	font-size: 25px;
+}
 		
 ul{
 	list-style:none;
@@ -22,38 +26,38 @@ ul{
 }
 		
 .about{
-	font-size: 125%;
+	font-size: 20px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
 }
 		
 .education{
-	width: 100%;
-	height: 400px;
+	width: auto;
+	height: auto;
 	background-image: url('img/education.jpeg');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
-	font-size: 125%;
+	font-size: 20px;
 	color: white;
 	text-align: center;
 }
 		
 .skill{
-	font-size: 125%;
+	font-size: 20px;
 	text-align: center;
 }
 		
 .contact{
-	font-size: 125%px;
+	font-size: 20px;
 	color: white;
 	background-color: grey;
 }
 		
 .image-container{
 	display: grid;
-	grid-gap: 20px;
-	grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+	grid-gap: 5px;
+	grid-template-columns: auto-fit, minmax(100px, 1fr);
 	grid-auto-rows: 200px;
 	grid-auto-flow: dense;
 }
@@ -69,11 +73,11 @@ ul{
 		
 .social img{
 	width: auto;
-	height: 30px;
+	height: 50px;
 }
 		
 #links{
 	float:left;
-	margin-right:10px;
+	margin-right:20px;
 			
 }
