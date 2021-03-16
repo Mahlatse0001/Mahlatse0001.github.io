@@ -12,7 +12,7 @@ h1{
 }
 
 h3{
-	font-size: 25px;
+	font-size: 23px;
 }
 		
 ul{
@@ -47,6 +47,14 @@ ul{
 	font-size: 20px;
 	text-align: center;
 }
+
+.portfolio{
+	font-size: 20px;
+	text-align: center;
+	height: 200px;
+	background-color: blue;
+	color: yellow;
+}
 		
 .contact{
 	font-size: 20px;
@@ -74,6 +82,7 @@ ul{
 .social img{
 	width: auto;
 	height: 50px;
+	margin: 4px 4px 4px 4px;
 }
 		
 #links{
