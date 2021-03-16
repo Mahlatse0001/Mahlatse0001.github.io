@@ -53,6 +53,8 @@ ul{
 	text-align: center;
 	background-color: blue;
 	color: yellow;
+	height: auto;
+	width: auto;
 }
 		
 .contact{
