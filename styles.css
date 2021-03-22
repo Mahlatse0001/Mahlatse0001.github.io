@@ -53,14 +53,12 @@ ul{
 	width: auto;
 	font-size: 20px;
 	text-align: center;
-	background-color: blue;
-	color: yellow;
+	background-color: grey;
+	color: white;
 }
 		
 .contact{
 	font-size: 20px;
-	color: white;
-	background-color: grey;
 	text-align: center;
 }
 		
